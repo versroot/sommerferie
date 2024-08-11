@@ -5,17 +5,17 @@ const images = [
   {
     preview: '../img/gdansk1.jpg',
     original: '../img/gdansk1.jpg',
-    description: 'Gdansk, Polen',
+    description: 'Gdansk--Polen',
   },
   {
     preview: '../img/turkey1.jpg',
     original: '../img/turkey1.jpg',
-    description: 'Alania, Turkiet',
+    description: 'Alania--Tyrkiet',
   },
   {
     preview: '../img/aarhus1.jpg',
     original: '../img/aarhus1.jpg',
-    description: 'Aarhus, Denmark',
+    description: 'Aarhus--Denmark',
   },
 ];
 
